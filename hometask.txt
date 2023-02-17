@@ -1,0 +1,11 @@
+Ветка master отличается от demo только в файле RADME, а файл human.txt у обоих одинаковый
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
